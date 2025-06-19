@@ -7,3 +7,8 @@ what is slug?
 A slug is the URL-friendly version of a name.
 wordpress each wensite login : http://localhost:8888/myfirstwpwebsite/wp-admin
 if you go to theappearance to editor : This is the new interface for site editing. 
+The most important one is template : is a file that serves as a model
+what template file is used to generate content ? is fundemantal of learinig templates.
+URL shows which template file it is used.
+if I have three categoriezed call " live - Music - dance " we would see category-live.php if it can not find it will show archive and then it would show index.php.
+Once you create a post you are outputting a single post pattern in the block site editing.
