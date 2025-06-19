@@ -14,3 +14,4 @@ if I have three categoriezed call " live - Music - dance " we would see category
 Once you create a post you are outputting a single post pattern in the block site editing.
 header and footer are imported in all other pages, so if you change a header in dingle port your pages- your 404 and search and etc will also change accordingly.
 Inner block means : keep the content you are adding aligh with the column of the main contenct not with the header of footer. 
+once you add a query loop will help you to output your content dynamically.
