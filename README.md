@@ -16,4 +16,4 @@ header and footer are imported in all other pages, so if you change a header in 
 Inner block means : keep the content you are adding aligh with the column of the main contenct not with the header of footer. 
 once you add a query loop will help you to output your content dynamically.if you add a post it is going to show up there.
 Try to keep your content out of the teplate, by creatibg posts and pages.
-posts : we need update, for instance instagram posts. but pages loke about us- contact us.
+posts : we need update, for instance instagram posts. but pages like about us- contact us.
