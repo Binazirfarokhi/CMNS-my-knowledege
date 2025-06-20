@@ -18,3 +18,4 @@ once you add a query loop will help you to output your content dynamically.if yo
 Try to keep your content out of the teplate, by creatibg posts and pages.
 posts : we need update, for instance instagram posts. but pages like about us- contact us.
 filter: invert(1); will change the color if an element to white.
+Blog home : display the latest post and make a list of generating blog posts. 
